@@ -3,14 +3,6 @@ title: "关于"
 
 ---
 
-## 我是谁
-
-我是一名软件工程师，我对技术性的东西很感兴趣，热衷于通过编程解决实际问题。我对开源抱有热情，是 ArchLinux 党。
-
-我的兴趣爱好很广泛，喜欢运动，包括羽毛球、篮球、网球，喜欢玩游戏、烹饪、写博客，以及翻别人的博客。除此之外，我还是一名理性的理想主义者。
-
-前路漫漫，何处是吾乡？且看我慢慢地寻找自己的答案。
-
 ![img](https://cdn.jsdelivr.net/gh/lzxqaq/jsdelivr@master/image/costumes/minhuit--ou-l39appartement-a-la-mode-plate-no-7-1920-fashion-illustration-in-high-resolution-by-george-barbier-original-from-the-beinecke-rare-book--manuscript-library-digitally-enhanced-by-rawpixel_50805875302_o.jpg)
 
 ## 建站初衷
@@ -29,7 +21,6 @@ title: "关于"
 
 * [Github](https://github.com/lzxqaq) ：这是我的 Github 仓库地址。
 * [Gitee](https://gitee.com/lzxqaq) ：这是我的 Gitee 仓库地址。
-* [EasyFormal](https://easyformal.com) ：Formal 学习记录。
 
 ## 关注的博主
 
