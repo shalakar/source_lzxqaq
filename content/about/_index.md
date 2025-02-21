@@ -3,7 +3,7 @@ title: "关于"
 
 ---
 
-![img](https://cdn.jsdelivr.net/gh/lzxqaq/jsdelivr@master/image/costumes/minhuit--ou-l39appartement-a-la-mode-plate-no-7-1920-fashion-illustration-in-high-resolution-by-george-barbier-original-from-the-beinecke-rare-book--manuscript-library-digitally-enhanced-by-rawpixel_50805875302_o.jpg)
+<!-- ![img](https://cdn.jsdelivr.net/gh/lzxqaq/jsdelivr@master/image/costumes/minhuit--ou-l39appartement-a-la-mode-plate-no-7-1920-fashion-illustration-in-high-resolution-by-george-barbier-original-from-the-beinecke-rare-book--manuscript-library-digitally-enhanced-by-rawpixel_50805875302_o.jpg) -->
 
 ## 建站初衷
 
