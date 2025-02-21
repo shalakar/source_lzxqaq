@@ -9,7 +9,7 @@ title: "日常"
 - 程序员在家做饭方法指南 https://github.com/Anduin2017/HowToCook  
 - 人体系统调优不完全指南 https://github.com/zijie0/HumanSystemOptimization  
 
-## 编程语言学习
+## 编程技术学习
 
 1. C++核心学习
 
@@ -25,6 +25,35 @@ title: "日常"
 
 - Hello算法：可视化算法教程：https://github.com/krahets/hello-algo
 - 品读Linux 0.11核心代码：https://github.com/dibingfa/flash-linux0.11-talk
+
+4. 编译器
+
+- Getting Started with LLVM Core Libraries（中文版） https://getting-started-with-llvm-core-libraries-zh-cn.readthedocs.io/zh-cn/latest/index.html#
+
+- 编译器原理与开发专栏：https://www.zhihu.com/column/c_1416415517393981440
+
+- LLVM IR入门指南：https://evian-zhang.github.io/llvm-ir-tutorial/
+
+- 深入理解LLVM代码生成：https://www.zhihu.com/column/c_1838978048801783808
+
+- 编译器与IR的思考: LLVM IR，SPIR-V到MLIR：https://mp.weixin.qq.com/s/G36IllLOTXXbc4LagbNH9Q
+
+- circt ：https://circt.llvm.org/ https://zhuanlan.zhihu.com/p/450077425 
+
+- 从零开始教你写一个MLIR Pass https://www.cnblogs.com/BobHuang/p/18249482
+
+- CIRCT 系列教程 https://1nfinite.ai/t/circt/140
+
+- CIRCT: 基于 MLIR 的下一代开源硬件编译框架 https://hanchenye.com/assets/CCF21_CIRCT_Slides.pdf
+
+- CIRCT 编译器的电路划分及 Arcilator 仿真并行化 https://tuna.moe/blog/2024/ospp-summer-2024/
+
+- 兆松科技 https://space.bilibili.com/3546666401532217
+
+## EDA 
+
+- SystemVerilog Parser 开源项目对比 https://chipsalliance.github.io/sv-tests-results/  
+- 
 
 ## 面试与职业发展
 
