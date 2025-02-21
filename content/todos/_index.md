@@ -50,6 +50,10 @@ title: "日常"
 
 - 兆松科技 https://space.bilibili.com/3546666401532217
 
+- CIRCT-LLHD仿真计数器电路 https://zhuanlan.zhihu.com/p/438749987 
+
+- CIRCT 仿真 https://leiblog.wang/%E8%AE%BA%E6%96%87%E9%98%85%E8%AF%BB%EF%BD%9CLLHD/ 
+
 ## EDA 
 
 - SystemVerilog Parser 开源项目对比 https://chipsalliance.github.io/sv-tests-results/  
